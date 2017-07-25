@@ -1,0 +1,103 @@
+
+texturePack1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+font
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 2, 516
+  size: 550, 313
+  orig: 550, 313
+  offset: 0, 0
+  index: -1
+asteroid
+  rotate: false
+  xy: 516, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+joystick
+  rotate: false
+  xy: 774, 2
+  size: 200, 250
+  orig: 200, 250
+  offset: 0, 0
+  index: -1
+button-up
+  rotate: false
+  xy: 516, 260
+  size: 194, 193
+  orig: 194, 193
+  offset: 0, 0
+  index: -1
+button-down
+  rotate: false
+  xy: 712, 260
+  size: 194, 193
+  orig: 194, 193
+  offset: 0, 0
+  index: -1
+hpBar
+  rotate: false
+  xy: 2, 831
+  size: 224, 96
+  orig: 224, 96
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 228, 831
+  size: 254, 74
+  orig: 254, 74
+  offset: 0, 0
+  index: -1
+ship
+  rotate: false
+  xy: 908, 260
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bot
+  rotate: false
+  xy: 908, 326
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+powerUps
+  rotate: false
+  xy: 516, 455
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 976, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+star16
+  rotate: false
+  xy: 976, 36
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 994, 36
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
