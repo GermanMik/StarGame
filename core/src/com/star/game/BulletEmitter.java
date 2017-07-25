@@ -70,7 +70,7 @@ public class BulletEmitter {
 
     public void setupBullet(boolean isItBot, float x, float y, float angle) {
         Bullet item = bulletsPool.obtain();
-        item.setup(isItBot, x, y, 400 * (float) cos(angle), 400 * (float) sin(angle));
+        item.setup(isItBot, x, y, 500 * (float) cos(angle), 500 * (float) sin(angle));
         activeBullets.add(item);
     }
 }
